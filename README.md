@@ -121,12 +121,12 @@ if ($path === '/equipments' && $method === 'GET') {
 * A API Python fica escutando essa fila consumindo e armazenando as mensagens.
 
 ## Evidências:
-![GET-Events](evidencias\get-events.png)
-![POST-Alert](evidencias\post-alert.png)
-![POST-Events](evidencias\post-events.png)
-![POST-SensorData](evidencias\post-sensor-data.png)
-![POST-Dispatch](evidencias\post-dispatch)
-![GET-Equipments](evidencias\get-equipments.png)
+![GET-Events](evidencias/get-events.png)
+![POST-Alert](evidencias/post-alert.png)
+![POST-Events](evidencias/post-events.png)
+![POST-SensorData](evidencias/post-sensor-data.png)
+![POST-Dispatch](evidencias/post-dispatch)
+![GET-Equipments](evidencias/get-equipments.png)
 
 ---
 ## Como testar esse rolê:
